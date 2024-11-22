@@ -12,7 +12,7 @@ Hello! I'm *KAUSTUBH SHARMA, a passionate college student learning **Python*. I'
 ## Projects
 
 ### [1. Image Resizer](https://github.com/kaustubhsh07/Image_Resizer)
-This project is a Python-based tool designed to resize images to specified dimensions. Using the Pillow library, the program takes an input image, resizes it to the desired width and height, and saves the resized image to a specified location. The tool is straightforward, user-friendly, and supports multiple image formats, making it ideal for tasks like preparing images for websites, social media, or other applications where size consistency is essential.# Tushar Mogha  
+This project is a Python-based tool designed to resize images to specified dimensions. Using the Pillow library, the program takes an input image, resizes it to the desired width and height, and saves the resized image to a specified location. The tool is straightforward, user-friendly, and supports multiple image formats, making it ideal for tasks like preparing images for websites, social media, or other applications where size consistency is essential.  
 
 
 ### [2. Basic Data Analysis Tool](https://github.com/kaustubhsh07/Basic_DataAnalysis_Tool)
